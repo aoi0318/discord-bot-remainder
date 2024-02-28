@@ -30,4 +30,4 @@ async def on_message(message):
         asyncio.create_task(alarm_task(time_str, message.channel))
 
 
-client.run('MTIxMjExMDUyODcwMTQwMzE2Ng.GIACGF.h0ri-jG6BLTsj1MZUL0VpD3293fRS-KuGp3GJ8')
+client.run('TOKEN')
